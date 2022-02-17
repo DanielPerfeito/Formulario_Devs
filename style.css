@@ -1,0 +1,44 @@
+
+body{
+
+    background-color: rgb(163, 163, 238);
+}
+
+
+.caixa{
+    
+    width: 400px;
+    margin: auto;
+    border: solid 2px white;
+    padding: 50px;
+    box-sizing: border-box;
+    
+}
+
+.dados{
+    border: solid 2px white;
+    padding: 10px;
+}
+
+input{
+    padding: 5px;
+    border-radius: 10px;
+    
+   
+}
+
+.skills{
+    border: solid 2px white;
+    padding: 10px;
+}
+
+
+p{
+    margin: 10px 0px 0px 0px;
+
+    
+}
+
+h3{
+    margin: 0;
+}
